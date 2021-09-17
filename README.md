@@ -4,5 +4,7 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 
 # Daily logs:
 ## Day-1 [17-09-2021] Regression Analysis:
-* learning types of regression models- Linear, Logistic, Polynomial, Ridge and Lasso Regression.
-* 
+* Started "Machine learning- A Probabilistic Perspective" by Kevin Murphy.
+* Introduction to machine learning- learnt about: Matrix completion, Image Inpainting, collaborative filtering, No free lunch theorem and Market Basket analysis.
+* 4 Distance measures widely used in machine learning.
+
