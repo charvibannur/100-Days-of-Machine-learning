@@ -23,3 +23,7 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 
 * Understood the intuition behind Naive Bayes Classifier.
 * Implemented a simple Naive Bayes Classification model using scratch for [Iris dataset](https://www.kaggle.com/vikrishnan/iris-dataset) available on Kaggle.
+
+## Day-5 [21-09-2021] Hyperparameter tuning:
+* learnt the importance of hyperparameter tuning in machine learning algorithms.
+* saw different parameters for SVMs, Naive Bayes and KNNs. 
