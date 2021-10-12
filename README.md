@@ -38,3 +38,7 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * [Pandas cheatsheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b)
 * [Matplotlib Cheatsheet](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
 * [Seaborn Cheatsheet](http://datacamp-community-prod.s3.amazonaws.com/263130e2-2c92-4348-a356-9ed9b5034247)
+
+## Day-8 [11-10-2021] Kernels:
+* Learnt basics of kernal functions.
+* Also started watching Stanford's CS299 lecture on [kernels](https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10)
