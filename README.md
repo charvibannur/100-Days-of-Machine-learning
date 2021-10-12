@@ -42,3 +42,9 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 ## Day-8 [11-10-2021] Kernels:
 * Learnt basics of kernal functions.
 * Also started watching Stanford's CS299 lecture on [kernels](https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10)
+
+## Day-9 [12-10-2021] Kernels Continued:
+* Learnt kernels for SVMs-polynomial and Radial Kernal(Radial bias function).
+![image](https://user-images.githubusercontent.com/77164319/136872058-7ef4172d-f768-433f-b3f0-b0153eeed5e0.png)
+* Learnt kernels and filters for convolution.
+
