@@ -27,3 +27,18 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 ## Day-5 [21-09-2021] Hyperparameter tuning:
 * learnt the importance of hyperparameter tuning in machine learning algorithms.
 * saw different parameters for SVMs, Naive Bayes and KNNs. 
+
+## Day-6 [22-09-2021] Bias, Variance, Cross validation and confusion matrix:
+* Learnt concepts Bias, Variance, Cross Validation, Confusion Matrix.
+* Implemented GridSearchCV and selected the best hyperparamter for Support Vector machine on a dataset.
+* saw the [stanford cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) for basics of machine learning.
+
+## Day-7 [24-09-2021] Numpy, Pandas, Matplotlib and Seaborn:
+* Went through the documentation and implemented topics.
+* [Pandas cheatsheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b)
+* [Matplotlib Cheatsheet](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
+* [Seaborn Cheatsheet](http://datacamp-community-prod.s3.amazonaws.com/263130e2-2c92-4348-a356-9ed9b5034247)
+
+## Day-8 [11-10-2021] Kernels:
+* Learnt basics of kernal functions.
+* Also started watching Stanford's CS299 lecture on [kernels](https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10)
