@@ -47,4 +47,5 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Learnt kernels for SVMs-polynomial and Radial Kernal(Radial bias function).
 ![image](https://user-images.githubusercontent.com/77164319/136872058-7ef4172d-f768-433f-b3f0-b0153eeed5e0.png)
 * Learnt kernels and filters for convolution.
+* Referred to chapter 14 in Machine learning-A Probabilistic perspective by Kevin Murphy.
 
