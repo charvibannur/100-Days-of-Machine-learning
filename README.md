@@ -71,3 +71,8 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Advantages of neural networks.
 * Softmax
 
+## Day 13 [16/10/2021] Neural Networks and Backpropagation:
+![image](https://user-images.githubusercontent.com/77164319/137585857-ebcd20dc-a30a-4084-a334-5f53e3733f08.png)
+* Watched [StatQuest video](https://www.youtube.com/watch?v=IN2XmBhILt4) on very idea of Backpropagation.
+* Learnt concepts of Chain rule in backpropagation and optimizing three parameters in a Neural Network simultaneously.
+
