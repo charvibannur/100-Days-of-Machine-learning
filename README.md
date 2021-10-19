@@ -51,5 +51,32 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 
 ## Day-10 [13-10-2021] Decision Trees:
 * Learnt Basics of Decision Trees through numerous examples.
+* learnt how to calculate gini index and other parameters.
 * Watched Video by [StatQuest](https://www.youtube.com/watch?v=7VeUPuFGJHk) on Classification and regression Decision Trees.
+
+## Day-11 [14-10-2021] Random Forest, Regression and Adaboost:
+* Learnt the intuition behind random forest and adaboost.
+* learnt concepts related to proximity matrix and distance matrix.
+* How to combine different learning algorithms and average their results.
+* Advantages and disadvantages of decision trees.
+* Implemented and visualised a decision tree using [scikit learn](https://scikit-learn.org/stable/) and [seaborn](https://seaborn.pydata.org/).
+* Learnt how to prune regresstion trees using the residual sum of squares and tree score.
+* Learnt about the ID3 algorithm, Entropy and Information gain.
+![image](https://user-images.githubusercontent.com/77164319/137328976-39dcfb02-476f-405e-9fd4-5c6b1c366fbd.png)
+
+## Day 12 [15/09/2021] Neural Networks:
+* Started Stanford's CS299 lecture on [Introduction to Neural Networks](https://www.youtube.com/watch?v=MfIjxPh6Pys&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=12&t=1854s).
+* Learned about: Equational form of neurons and models.
+* Terminology
+* Advantages of neural networks.
+* Softmax
+
+## Day 13 [16/10/2021] Neural Networks and Backpropagation:
+![image](https://user-images.githubusercontent.com/77164319/137585857-ebcd20dc-a30a-4084-a334-5f53e3733f08.png)
+* Watched [StatQuest video](https://www.youtube.com/watch?v=IN2XmBhILt4) on very idea of Backpropagation.
+* Learnt concepts of Chain rule in backpropagation and optimizing three parameters in a Neural Network simultaneously.
+
+## Day 14 [19/10/2021] Nueral Networks and Backpropagation Continued:
+* Again analysed the concepts of Chain rule in backpropagation and optimizing three parameters in a Neural Network simultaneously.
+* Learnt in depth the concepts of weights, bias, Gradient Descent and optimsation of parameters.
 
