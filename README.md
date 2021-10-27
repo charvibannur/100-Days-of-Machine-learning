@@ -93,3 +93,10 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 
 ## Day 17 [26/10/2021] :
 * Revised certain concepts
+
+## Day 18 [27/10/2021] Activation functions, Optimization, Debugging Models:
+* Learnt about various activation functions and which one to use for different models.
+* Learnt about various optimizers.
+* overfitting, underfitting and how to solve them.
+* different cases with variance and bias and how to reach the appropriate training model.
+* Learnt about data augmentation and how to implement it on deep learning models.
