@@ -91,3 +91,5 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Watched StatQuest video on KNN.
 * Learnt concepts like Euclidean Distance and how exactly the KNN Algorithm works.
 
+## Day 17 [26/10/2021] :
+* Revised certain concepts
