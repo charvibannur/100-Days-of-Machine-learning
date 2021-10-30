@@ -100,3 +100,7 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * overfitting, underfitting and how to solve them.
 * different cases with variance and bias and how to reach the appropriate training model.
 * Learnt about data augmentation and how to implement it on deep learning models.
+
+## Day 19 [30/10/2021] Project on implementation of KNN's
+* Built a project on KNN that implements and uses Machine Learning in trading.
+* [Reference](https://blog.quantinsti.com/machine-learning-k-nearest-neighbors-knn-algorithm-python/) for the project.
