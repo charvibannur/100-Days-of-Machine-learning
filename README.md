@@ -104,3 +104,10 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 ## Day 19 [30/10/2021] Project on implementation of KNN's
 * Built a project on KNN that implements and uses Machine Learning in trading.
 * [Reference](https://blog.quantinsti.com/machine-learning-k-nearest-neighbors-knn-algorithm-python/) for the project.
+
+## Day 20 [31/10/20] Convolutional Neural Networks:
+Some of the things I learned today:
+* What are convolutional neural networks?
+* What is the function of the CNN kernel?
+* Continued to read up on ConvNet.
+* Learned about the max pooling layer.
