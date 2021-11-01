@@ -105,9 +105,18 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Built a project on KNN that implements and uses Machine Learning in trading.
 * [Reference](https://blog.quantinsti.com/machine-learning-k-nearest-neighbors-knn-algorithm-python/) for the project.
 
-## Day 20 [31/10/20] Convolutional Neural Networks:
+## Day 20 [31/10/21] Convolutional Neural Networks:
 Some of the things I learned today:
 * What are convolutional neural networks?
 * What is the function of the CNN kernel?
 * Continued to read up on ConvNet.
 * Learned about the max pooling layer.
+
+## Day 21 [1/11/21] Recurrent Neural Networks:
+![image](https://user-images.githubusercontent.com/77164319/139613520-9dec5714-2310-419e-94da-4c66f34a022b.png)
+Some of the things I learned today:
+* What are [recurrent neural networks](https://www.youtube.com/watch?v=LHXXI4-IEns)?
+* What makes RNNs more powerful than other architectures?
+* Learned about the different RNNs architectures.
+* Explored the different applications of RNNs.
+* Learnt basics of [LSTM and GRU](https://www.youtube.com/watch?v=8HyCNIVRbSU). learnt the intuition behind them
