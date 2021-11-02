@@ -121,3 +121,11 @@ Some of the things I learned today:
 * Learned about the different RNNs architectures.
 * Explored the different applications of RNNs.
 * Learnt basics of [LSTM and GRU](https://www.youtube.com/watch?v=8HyCNIVRbSU). learnt the intuition behind them
+
+Day 22 [2/11/21] Long Short Term memory:
+Learnt the following today:
+
+* basics of [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
+* The Core Idea Behind LSTMs(Long Short Trem Memory)
+* Step-by-Step LSTM Walk Through
+* Variants on Long Short Term Memory
