@@ -144,4 +144,3 @@ Learnt the following today:
 * In machine learning, the [vanishing gradient problem](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484) is encountered when training artificial neural networks with gradient-based learning methods and backpropagation.
 * Learnt the disadvantages of it.
 * Learnt how to fix the [vanishing gradient problem using ReLU.](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/)
-* 
