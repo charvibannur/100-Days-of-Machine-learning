@@ -139,3 +139,9 @@ Learnt the following today:
 ## Day 24 [4/11/21] Project on RNNs:
 * Worked on sequence prediction problem using RNN.
 * [Reference](https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/) for the project
+
+## Day-25 [5/11/21] Vanishing gradient problem:
+* In machine learning, the [vanishing gradient problem](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484) is encountered when training artificial neural networks with gradient-based learning methods and backpropagation.
+* Learnt the disadvantages of it.
+* Learnt how to fix the [vanishing gradient problem using ReLU.](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/)
+* 
