@@ -144,3 +144,14 @@ Learnt the following today:
 * In machine learning, the [vanishing gradient problem](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484) is encountered when training artificial neural networks with gradient-based learning methods and backpropagation.
 * Learnt the disadvantages of it.
 * Learnt how to fix the [vanishing gradient problem using ReLU.](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/)
+
+## Day-26 [6/11/2021] Basics of NLP (Natural Language Processing):
+Learnt basics of :
+
+* NLP and its applications in various domains.
+* Stop Words
+* Sentence and Word Tokenization.
+* Text Stemming
+* Text Lemmatization
+* Regex
+* Bag-of-Words
