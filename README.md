@@ -155,3 +155,11 @@ Learnt basics of :
 * Text Lemmatization
 * Regex
 * Bag-of-Words
+
+## Day-27 [7/11/2021] Vectorizers :
+Learn the basics of various types of [vectorizers](https://neptune.ai/blog/vectorization-techniques-in-nlp-guide):
+
+* Count Vectorizer
+* Tf-Idf
+* Word2Vec
+
