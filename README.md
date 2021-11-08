@@ -163,3 +163,10 @@ Learn the basics of various types of [vectorizers](https://neptune.ai/blog/vecto
 * Tf-Idf
 * Word2Vec
 
+## Day-28 [8/11/2021] Project on NLP :
+![image](https://user-images.githubusercontent.com/77164319/140771312-f4d95aa3-cdcf-4c6e-962d-8bda9bd8a898.png)
+
+* Worked on Sentiment Analysis using NLP.
+* Sentiment analysis refers to the application of natural language processing, computational linguistics, and text analysis to identify and classify subjective opinions in source documents.
+* [Reference for the project](https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/).
+
