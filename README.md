@@ -170,3 +170,16 @@ Learn the basics of various types of [vectorizers](https://neptune.ai/blog/vecto
 * Sentiment analysis refers to the application of natural language processing, computational linguistics, and text analysis to identify and classify subjective opinions in source documents.
 * [Reference for the project](https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/).
 
+## Day-29 [9/11/2021] Exploratory Data Analysis:
+
+### What is EDA?
+
+![image](https://user-images.githubusercontent.com/77164319/140796276-5a29139f-ca7f-46d1-b425-88c86c2bd831.png)
+
+In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/2021/04/rapid-fire-eda-process-using-python-for-ml-implementation/) is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods
+* Learnt about different proprocessing techniques on a dataset using pandas and numpy.
+* Learn what [plots are significant](https://chartio.com/learn/charts/essential-chart-types-for-data-visualization/) to different types of data.
+* Learnt how to identify outliers.
+* Learnt about various techniques to create models for predicting certain kind of outputs.
+* How to make inferences and write a detailed report.
+
