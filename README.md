@@ -3,6 +3,7 @@
 Finished machine learning concepts from Andrew NG's course by Standford University on Coursera.
 
 # Daily logs:
+
 ## Day-1 [17-09-2021] Introduction:
 * Started ["Machine learning- A Probabilistic Perspective" by Kevin Murphy.](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)
 * Introduction to machine learning- learnt about: Matrix completion, Image Inpainting, collaborative filtering, No free lunch theorem and Market Basket analysis.
