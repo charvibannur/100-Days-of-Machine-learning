@@ -216,5 +216,15 @@ In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/
 * Learnt the function of each parameter (especially the role of β in both (β) and (1 - β)) that is extremely useful in gradient descent.
 * Read an [article](https://medium.com/@vinodhb95/momentum-optimizer-6023aa445e18) on momemtum optimiser.
 
+## Day-35 [15/11/21] Hopfield Networks: 
+Learned about:
+* What [Hopfield networks](https://medium.com/@serbanliviu/hopfield-nets-and-the-brain-e5880070cdba) are.
+* Learnt about the Hebbian postulate: "Neurons that fire together wire together, neurons out of sync, fail to link."
+* Learnt about the energy function of the Hopfield Nets.
+* How it is similar to our brain.
+* Advantages of Hopfield Nets.
+* How to use Hopfield networks.
+* How Hopfield networks improve on the RNN model.
+
 
 
