@@ -211,5 +211,10 @@ In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/
 * Using Python (Pandas, NumPy) to gather and assess the data and scikit-learn to train a K-Means model to detect if a banknote is genuine or forged.
 * [Reference](https://towardsdatascience.com/k-means-clustering-project-banknote-authentication-289cfe773873) for the project
 
+## Day-34 [14/11/2021] Momentum Optimiser:
+* Watched [DeepLearningAl video](https://www.youtube.com/watch?v=k8fTYJPd3_I) on Gradient Descent with momemtum.
+* Learnt the function of each parameter (especially the role of β in both (β) and (1 - β)) that is extremely useful in gradient descent.
+* Read an [article](https://medium.com/@vinodhb95/momentum-optimizer-6023aa445e18) on momemtum optimiser.
+
 
 
