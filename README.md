@@ -231,8 +231,8 @@ Learned about:
 * Learnt what Boltzmann machines are.
 * Learnt types of Boltzmann Machines and working of them.
 * Learnt:
-** Restricted Boltzmann Machines (RBMs)
-** Deep Belief Networks (DBNs)
-** Deep Boltzmann Machines (DBMs)
+  1.  Restricted Boltzmann Machines (RBMs)
+  2. Deep Belief Networks (DBNs)
+  3.  Deep Boltzmann Machines (DBMs)
 
 
