@@ -227,4 +227,12 @@ Learned about:
 * How Hopfield networks improve on the RNN model.
 
 
+## Day-36 [16/11/2021] Boltzmann Machines:
+* Learnt what Boltzmann machines are.
+* Learnt types of Boltzmann Machines and working of them.
+* Learnt:
+** Restricted Boltzmann Machines (RBMs)
+** Deep Belief Networks (DBNs)
+** Deep Boltzmann Machines (DBMs)
+
 
