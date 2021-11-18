@@ -242,4 +242,11 @@ Learned about:
 * The components that make up an Autoencoder.
 * Applications of Autoencoders.
 
+## Day-38 [18/11/2021] Deep Belief Networks:
 
+![image](https://user-images.githubusercontent.com/77164319/142345047-4e1ad293-959e-42f0-a83e-fd9abec67659.png)
+
+* Watched a [video](https://www.youtube.com/watch?v=E2Mt_7qked0) on Deep Belief Networks(DBN).
+* DBN method is also known as Layer-wise, unsupervised, greedy pre-training.
+* Learnt that in this type of net each layer ends up learning the full input structure.
+* Learnt that DBN is an effective solution to the vanishing gradient problem.
