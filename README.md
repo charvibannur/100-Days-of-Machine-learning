@@ -256,3 +256,7 @@ Learned about:
 * A restricted Boltzmann machine is a generative stochastic artificial neural network that can learn a probability distribution over its set of inputs.
 * [Reference](https://www.youtube.com/watch?v=i64KpxyaLpo)
 * Learn their importance in deep belief networks.
+
+## Day-40 [20/11/2021] Project On Deep Belief Networks:
+* Practical Application of DBN's on MNIST Dataset.
+* [Reference](https://medium.com/black-feathers-labs/deep-belief-networks-an-introduction-1d52bb867a25) to the project
