@@ -261,5 +261,5 @@ Learned about:
 * Practical Application of DBN's on MNIST Dataset.
 * [Reference](https://medium.com/black-feathers-labs/deep-belief-networks-an-introduction-1d52bb867a25) to the project
 
-## DAY-41 [07/12/2021] :
+## DAY-41 [07/12/2021] : 
 * Taking time off to study for 3rd sem internals and final exams. Will be back soon !!
