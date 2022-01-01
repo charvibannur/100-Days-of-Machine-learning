@@ -266,6 +266,6 @@ Learned about:
 
 ## DAY-42 [01/01/2021] Read a Research Paper on Chatbots:
 * Did a short Literature survey:
-* * written by Sushil S. Ranavare and Rajani S Kamath
-* * Artificial Intelligence based Chatbot for Placement Activity at College Using DialogFlow
-* * NLP module of DialogFlow translates students’ queries into structured data in order to understand institute’s service
+  * written by Sushil S. Ranavare and Rajani S Kamath
+  * Artificial Intelligence based Chatbot for Placement Activity at College Using DialogFlow
+  * NLP module of DialogFlow translates students’ queries into structured data in order to understand institute’s service
