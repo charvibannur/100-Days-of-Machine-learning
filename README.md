@@ -263,3 +263,9 @@ Learned about:
 
 ## DAY-41 [07/12/2021] : 
 * Taking time off to study for 3rd sem internals and final exams. Will be back soon !!
+
+## DAY-42 [01/01/2021] Read a Research Paper on Chatbots:
+* Did a short Literature survey:
+* * written by Sushil S. Ranavare and Rajani S Kamath
+* * Artificial Intelligence based Chatbot for Placement Activity at College Using DialogFlow
+* * NLP module of DialogFlow translates students’ queries into structured data in order to understand institute’s service
