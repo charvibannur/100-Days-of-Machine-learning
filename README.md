@@ -269,3 +269,13 @@ Learned about:
   * written by Sushil S. Ranavare and Rajani S Kamath
   * Artificial Intelligence based Chatbot for Placement Activity at College Using DialogFlow
   * NLP module of DialogFlow translates students’ queries into structured data in order to understand institute’s service
+
+## Day-43 [02/01/2021] Seq2Seq :
+Learnt
+
+![image](https://user-images.githubusercontent.com/77164319/147883456-b3496b57-6c2c-4d27-b147-2794a56d556e.png)
+
+
+* Basic working of Sequence To [Sequence (Seq2Seq) model](https://www.youtube.com/watch?v=jCrgzJlxTKg).
+* Encoder-Decoder Architecture.
+* [Reference](https://www.analyticsvidhya.com/blog/2020/08/a-simple-introduction-to-sequence-to-sequence-models/)
