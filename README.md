@@ -22,7 +22,7 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 ##  Day-4 [20-09-2021] Naive-Bayes:
 ![image](https://user-images.githubusercontent.com/77164319/134170787-74e88010-a8b4-495e-aee8-4a4d0dfb368e.png)
 
-* Understood the intuition behind Naive Bayes Classifier.
+* Understood the intuition behind Naive Bayes Classifier. 
 * Implemented a simple Naive Bayes Classification model using scratch for [Iris dataset](https://www.kaggle.com/vikrishnan/iris-dataset) available on Kaggle.
 
 ## Day-5 [21-09-2021] Hyperparameter tuning:
@@ -260,3 +260,12 @@ Learned about:
 ## Day-40 [20/11/2021] Project On Deep Belief Networks:
 * Practical Application of DBN's on MNIST Dataset.
 * [Reference](https://medium.com/black-feathers-labs/deep-belief-networks-an-introduction-1d52bb867a25) to the project
+
+## DAY-41 [07/12/2021] : 
+* Taking time off to study for 3rd sem internals and final exams. Will be back soon !!
+
+## DAY-42 [01/01/2021] Read a Research Paper on Chatbots:
+* Did a short Literature survey:
+  * written by Sushil S. Ranavare and Rajani S Kamath
+  * Artificial Intelligence based Chatbot for Placement Activity at College Using DialogFlow
+  * NLP module of DialogFlow translates students’ queries into structured data in order to understand institute’s service
