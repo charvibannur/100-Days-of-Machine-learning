@@ -264,13 +264,13 @@ Learned about:
 ## DAY-41 [07/12/2021] : 
 * Taking time off to study for 3rd sem internals and final exams. Will be back soon !!
 
-## DAY-42 [01/01/2021] Read a Research Paper on Chatbots:
+## DAY-42 [01/01/2022] Read a Research Paper on Chatbots:
 * Did a short Literature survey:
   * written by Sushil S. Ranavare and Rajani S Kamath
   * Artificial Intelligence based Chatbot for Placement Activity at College Using DialogFlow
   * NLP module of DialogFlow translates students’ queries into structured data in order to understand institute’s service
 
-## DAY-43 [02/01/2021] Seq2Seq :
+## DAY-43 [02/01/2022] Seq2Seq :
 Learnt
 
 ![image](https://user-images.githubusercontent.com/77164319/147883456-b3496b57-6c2c-4d27-b147-2794a56d556e.png)
@@ -280,15 +280,22 @@ Learnt
 * Encoder-Decoder Architecture.
 * [Reference](https://www.analyticsvidhya.com/blog/2020/08/a-simple-introduction-to-sequence-to-sequence-models/)
 
-## DAY-44 [03/01/2021] Sliding window technique :
+## DAY-44 [03/01/2022] Sliding window technique :
 * This technique involves taking a subset of data from a given array or string, expanding or shrinking that subset to satisfy certain conditions, hence the sliding effect.
 * It is also used in object detection and many other machine learning algorithms.
 * Learnt the basics of the algorithm and it's applications.
 * [Reference](https://www.geeksforgeeks.org/window-sliding-technique/)
 
-## Day-45 [04/01/2021] Attention Models :
+## Day-45 [04/01/2022] Attention Models :
 ![image](https://user-images.githubusercontent.com/77164319/148101003-58f2aa79-3e36-4167-ac6a-4fbbbb5428ef.png)
 
 * Understood the intuition behind Attention Models.
 * [Reference](https://www.youtube.com/watch?v=SysgYptB198)
+
+## DAY-46 [05/01/2022] YOLO Algorithm :
+![image](https://user-images.githubusercontent.com/77164319/148190152-66dbc311-b453-4a73-b4b0-c81cdd204103.png)
+
+* Understood the intuition behind the algorithm.
+* Applications of the YOLO algorithm.
+* [Reference](https://www.coursera.org/lecture/convolutional-neural-networks/yolo-algorithm-fF3O0)
 
