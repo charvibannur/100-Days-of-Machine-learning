@@ -299,3 +299,14 @@ Learnt
 * Applications of the YOLO algorithm.
 * [Reference](https://www.coursera.org/lecture/convolutional-neural-networks/yolo-algorithm-fF3O0)
 
+## Day-47 [06/01/2022] Attention Models continued :
+Revised :
+
+* Encoder-Decoder Model.
+* Attention Model.
+Learnt :
+
+* How does Attention work in Encoder Decoder RNN(Recurrent Neural Networks)
+* Worked examples of Attention.
+* [Reference](https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/)
+
