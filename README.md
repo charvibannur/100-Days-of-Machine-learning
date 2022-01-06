@@ -304,6 +304,7 @@ Revised :
 
 * Encoder-Decoder Model.
 * Attention Model.
+
 Learnt :
 
 * How does Attention work in Encoder Decoder RNN(Recurrent Neural Networks)
