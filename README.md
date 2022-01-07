@@ -311,3 +311,12 @@ Learnt :
 * Worked examples of Attention.
 * [Reference](https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/)
 
+## DAY-48 [07/01/2022] Future scope of Machine Learning:
+
+![image](https://user-images.githubusercontent.com/77164319/148502074-44cde817-4b74-4ca2-918c-d7177419bec9.png)
+
+
+* [Learnt various applications](https://www.analyticsvidhya.com/blog/2021/02/the-exciting-future-potential-of-machine-learning/).
+* AI in the news.
+* [Recent developments in the field](https://mobidev.biz/blog/future-machine-learning-trends-impact-business).
+
