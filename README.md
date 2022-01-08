@@ -320,3 +320,10 @@ Learnt :
 * AI in the news.
 * [Recent developments in the field](https://mobidev.biz/blog/future-machine-learning-trends-impact-business).
 
+DAY-49 [08/01/2022] ResNet(Residual Network):
+Learnt :
+
+![image](https://user-images.githubusercontent.com/77164319/148634787-65271b87-1a60-4c55-949b-adb8d5886cb1.png)
+
+* Basics of [ResNet Architecture](https://www.mygreatlearning.com/blog/resnet/).
+* Working of [ResNet](https://www.youtube.com/watch?v=RYth6EbBUqM).
