@@ -327,3 +327,14 @@ Learnt :
 
 * Basics of [ResNet Architecture](https://www.mygreatlearning.com/blog/resnet/).
 * Working of [ResNet](https://www.youtube.com/watch?v=RYth6EbBUqM).
+
+## DAY-50 [09/01/2022] Read a Research Paper on Movie Analysis:
+* Did a short Literature survey:
+  * written by Mahsa Shafaei, Niloofar Safi Samghabadi, Sudipta Kar and Thamar Solorio
+  * [Age Suitability Rating: Predicting the MPAA Rating Based on Movie Dialogues](https://aclanthology.org/2020.lrec-1.166.pdf)
+  * Movies help us learn and inspire societal change. But they can also contain objectionable content that negatively affects viewers’
+behavior, especially children. In this paper, our goal is to predict the suitability of movie content for children and young adults based on
+scripts. The criterion that we use to measure suitability is the MPAA rating that is specifically designed for this purpose. We create a
+corpus for movie MPAA ratings and propose an RNN-based architecture with attention that jointly models the genre and the emotions in
+the script to predict the MPAA rating. We achieve 81% weighted F1-score for the classification model that outperforms the traditional
+machine learning method by 7%.
