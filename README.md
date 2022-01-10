@@ -338,3 +338,11 @@ scripts. The criterion that we use to measure suitability is the MPAA rating tha
 corpus for movie MPAA ratings and propose an RNN-based architecture with attention that jointly models the genre and the emotions in
 the script to predict the MPAA rating. We achieve 81% weighted F1-score for the classification model that outperforms the traditional
 machine learning method by 7%.
+
+## Day-51 [10/01/2022] ResNet continued:
+
+![image](https://user-images.githubusercontent.com/77164319/148727668-bea8ad66-5c1e-4b81-88c7-fa92f758bdb0.png)
+
+* Understood ResNet in Keras.
+* Built a ResNet50 Model.
+* [Reference](https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33)
