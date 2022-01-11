@@ -346,3 +346,12 @@ machine learning method by 7%.
 * Understood ResNet in Keras.
 * Built a ResNet50 Model.
 * [Reference](https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33)
+
+## DAY-52 [11/01/2022] MobileNet:
+Learnt :
+
+* Basics of [MobileNet Architecture](https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69).
+* Image classification with [MobileNet](https://medium.com/analytics-vidhya/image-classification-with-mobilenet-cc6fbb2cd470).
+
+
+
