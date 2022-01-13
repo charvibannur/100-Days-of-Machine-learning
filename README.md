@@ -353,9 +353,13 @@ Learnt :
 * Basics of [MobileNet Architecture](https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69).
 * Image classification with [MobileNet](https://medium.com/analytics-vidhya/image-classification-with-mobilenet-cc6fbb2cd470).
 
-## Day-53 [12/02/2022] Resnet vs MobileNet:
+## Day-53 [12/01/2022] Resnet vs MobileNet:
 * Learnt both the ResNet and MobileNet models again.
 * Implemented both ResNet and MobileNet models on CIFAR-10 dataset.
 * Analysed the efficiency of both the models on CIFAR-10 dataset.
 * [Reference](https://analyticsindiamag.com/mobilenet-vs-resnet50-two-cnn-transfer-learning-light-frameworks/)
+
+## DAY-54 [13/01/2022] Image classifier using MobileNet:
+* Build an Image classification model using the pretrained model.
+* used Keras for the implementation.
 
