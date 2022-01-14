@@ -363,3 +363,13 @@ Learnt :
 * Build an Image classification model using the pretrained model.
 * used Keras for the implementation.
 
+## Day-55 [14/01/2022] VGGNet-16:
+Learnt:
+
+![image](https://user-images.githubusercontent.com/77164319/149538262-65cbee33-43b2-485d-85a8-adaf1f8ddca7.png)
+
+* VGG(Visual Geometry Group)16 Architecture.
+* Performance of VGG models.
+* Reference
+* VGG16 Neural Network Visualization
+
