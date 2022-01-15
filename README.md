@@ -373,3 +373,8 @@ Learnt:
 * Reference
 * VGG16 Neural Network Visualization
 
+## DAY-56 [15/01/2022] Matrix theory:
+* started off with matrix theory.
+* learnt about linear combination.
+* vector spaces.
+
