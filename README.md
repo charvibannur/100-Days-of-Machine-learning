@@ -378,8 +378,12 @@ Learnt:
 * learnt about linear combination.
 * vector spaces.
 
-## Day-57 [16/01/2021] Matrix theory continued:
+## Day-57 [16/01/2022] Matrix theory continued:
 * Learnt about [Matrices and Matrix Arithmetic](https://machinelearningmastery.com/introduction-matrices-machine-learning/).
 * Implemented them using numpy and pandas.
 * Learnt [Matrix Types](https://machinelearningmastery.com/introduction-to-types-of-matrices-in-linear-algebra/) in Linear Algebra for machine learning.
 * Went through few [Matrix Operations](https://machinelearningmastery.com/matrix-operations-for-machine-learning/) for machine learning.
+
+## DAY-58 [17/01/2022] Matrix theory:
+* learnt about gaussian elimination.
+* rank of a matrix.
