@@ -391,3 +391,11 @@ Learnt:
 ## Day-59 [18/01/2022] Project on VGG16:
 * Built a Simple Photo Classifier using VGG16.
 * [Reference](https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/)
+
+## DAY-60 [19/01/2022] Vanishing Gradient Problem:
+
+
+* In machine learning, the vanishing gradient problem is encountered when training artificial neural networks with gradient-based learning methods and backpropagation.
+* learnt :
+* * What is [vanishing gradient problem](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
+* * [How it can be solved](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/)
