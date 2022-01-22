@@ -413,4 +413,10 @@ Learnt:
 * [Intuition behind Adam](https://www.geeksforgeeks.org/intuition-of-adam-optimizer/).
 * learnt why [Adam is used over other optimizers](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/#:~:text=Adam%20combines%20the%20best%20properties,do%20well%20on%20most%20problems.).
 
+## Day-63 [22/01/2022] Nesterov Accelerated Gradient:
+![image](https://user-images.githubusercontent.com/79207846/150649634-4e905ca6-6246-468d-9154-1e0b0b6653b9.png)
+
+
+* Learnt basics of NAG(Nesterov Accelerated Gradient) Descent.
+* [Reference](https://towardsdatascience.com/learning-parameters-part-2-a190bef2d12)
  
