@@ -420,3 +420,7 @@ Learnt:
 * Learnt basics of NAG(Nesterov Accelerated Gradient) Descent.
 * [Reference](https://towardsdatascience.com/learning-parameters-part-2-a190bef2d12)
  
+## DAY-64 [23/01/2022] Cross Entropy loss function:
+* Cross-Entropy Loss Function. Also called logarithmic loss, log loss or logistic loss.
+* Cross Entropy is definitely a good loss function for Classification Problems, because it minimizes the distance between two probability distributions - predicted and actual.
+* [Reference](https://towardsdatascience.com/cross-entropy-for-dummies-5189303c7735#:~:text=Cross%2Dentropy%20measures%20the%20relative,bin%20example%20with%20two%20bins.)
