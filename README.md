@@ -424,3 +424,10 @@ Learnt:
 * Cross-Entropy Loss Function. Also called logarithmic loss, log loss or logistic loss.
 * Cross Entropy is definitely a good loss function for Classification Problems, because it minimizes the distance between two probability distributions - predicted and actual.
 * [Reference](https://towardsdatascience.com/cross-entropy-for-dummies-5189303c7735#:~:text=Cross%2Dentropy%20measures%20the%20relative,bin%20example%20with%20two%20bins.)
+
+## Day-65 [24/02/2021] Cross Entropy Cost function in Classification:
+Learnt:
+* The Cost Function of Cross-Entropy.
+* Multi-class Classification Cost Functions.
+* Binary Cross-Entropy Cost Function, Sparse Categorical Cross-Entropy, Categorical Cross-Entropy.
+* [Reference](https://www.geeksforgeeks.org/cross-entropy-cost-functions-used-in-classification/)
