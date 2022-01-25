@@ -431,3 +431,8 @@ Learnt:
 * Multi-class Classification Cost Functions.
 * Binary Cross-Entropy Cost Function, Sparse Categorical Cross-Entropy, Categorical Cross-Entropy.
 * [Reference](https://www.geeksforgeeks.org/cross-entropy-cost-functions-used-in-classification/)
+
+## DAY-66 [25/01/2022] Adagrad Optimizer:
+* Adaptive Gradient Algorithm (Adagrad) is an algorithm for gradient-based optimization.
+* It performs smaller updates As a result, it is well-suited when dealing with sparse data (NLP or image recognition) Each parameter has its own learning rate that improves performance on problems with sparse gradients.
+* [Reference](https://towardsdatascience.com/deep-learning-optimizers-436171c9e23f)
