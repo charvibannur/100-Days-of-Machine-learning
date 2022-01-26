@@ -436,3 +436,8 @@ Learnt:
 * Adaptive Gradient Algorithm (Adagrad) is an algorithm for gradient-based optimization.
 * It performs smaller updates As a result, it is well-suited when dealing with sparse data (NLP or image recognition) Each parameter has its own learning rate that improves performance on problems with sparse gradients.
 * [Reference](https://towardsdatascience.com/deep-learning-optimizers-436171c9e23f)
+
+## Day-67 [26/01/2022] AdaDelta Optimizer:
+* Adadelta is an extension of Adagrad that attempts to solve its radically diminishing learning rates. 
+* Adadelta is a machine learning optimization algorithm that was created by Matthew D. Zeiler with the goal of addressing two drawbacks of the Adagrad method.
+* [Reference](https://golden.com/wiki/Adadelta)
