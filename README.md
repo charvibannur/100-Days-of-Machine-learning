@@ -441,3 +441,8 @@ Learnt:
 * Adadelta is an extension of Adagrad that attempts to solve its radically diminishing learning rates. 
 * Adadelta is a machine learning optimization algorithm that was created by Matthew D. Zeiler with the goal of addressing two drawbacks of the Adagrad method.
 * [Reference](https://golden.com/wiki/Adadelta)
+
+## DAY-68 [27/01/2022] RMSProp:
+* It is an improvement to the Adagrad optimizer.
+* This aims to reduce the aggressiveness of the learning rate by taking an exponential average of the gradients instead of the cumulative sum of squared gradients.
+* [Reference](https://towardsdatascience.com/a-look-at-gradient-descent-and-rmsprop-optimizers-f77d483ef08b)
