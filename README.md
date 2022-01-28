@@ -446,3 +446,10 @@ Learnt:
 * It is an improvement to the Adagrad optimizer.
 * This aims to reduce the aggressiveness of the learning rate by taking an exponential average of the gradients instead of the cumulative sum of squared gradients.
 * [Reference](https://towardsdatascience.com/a-look-at-gradient-descent-and-rmsprop-optimizers-f77d483ef08b)
+
+
+## Day-69 [28/01/2022] Neural Network Optimizers:
+![image](https://user-images.githubusercontent.com/79207846/151487502-efb57dcd-ccd1-4aee-b15f-721140241caf.png)
+
+* Read an [article](https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6) on "Various Optimization Algorithms For Training Neural Network" which summarized all the optimizers we learnt so far.
+* [Reference](https://medium.com/analytics-vidhya/this-blog-post-aims-at-explaining-the-behavior-of-different-algorithms-for-optimizing-gradient-46159a97a8c1)
