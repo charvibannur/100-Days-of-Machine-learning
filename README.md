@@ -458,3 +458,8 @@ Learnt:
 ## Day-70 [29/01/2022] The brain as a neural network:
 * Understood how artificial neurons and perceptrons were inspired by the biological processes and tried to draw the relationship between both.
 * [Reference](https://towardsdatascience.com/the-brain-as-a-neural-network-this-is-why-we-cant-get-along-bd94bc7e49cc)
+
+## DAY-71 [30/01/2022] Cognitive Science:
+* Cognitive science is the interdisciplinary, scientific study of the mind and its processes with input from linguistics, psychology, neuroscience, philosophy, computer science/artificial intelligence, and anthropology.
+* Read about Donald Hoffman's Case against reality
+* Read an article about [cognitive sciences and machine learning.](https://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/)
