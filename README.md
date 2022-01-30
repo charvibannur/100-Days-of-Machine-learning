@@ -454,6 +454,7 @@ Learnt:
 * Read an [article](https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6) on "Various Optimization Algorithms For Training Neural Network" which summarized all the optimizers we learnt so far.
 * [Reference](https://medium.com/analytics-vidhya/this-blog-post-aims-at-explaining-the-behavior-of-different-algorithms-for-optimizing-gradient-46159a97a8c1)
 
-## DAY-70 [29/01/2022] Momentum Optimizer:
-* Momentum is an extension to the gradient descent optimization algorithm that allows the search to build inertia in a direction in the search space and overcome the oscillations of noisy gradients and coast across flat spots of the search space.
-* [Reference](https://machinelearningmastery.com/gradient-descent-with-momentum-from-scratch/#:~:text=Momentum%20is%20an%20extension%20to,spots%20of%20the%20search%20space.)
+
+## Day-70 [29/01/2022] The brain as a neural network:
+* Understood how artificial neurons and perceptrons were inspired by the biological processes and tried to draw the relationship between both.
+* [Reference](https://towardsdatascience.com/the-brain-as-a-neural-network-this-is-why-we-cant-get-along-bd94bc7e49cc)
