@@ -463,3 +463,9 @@ Learnt:
 * Cognitive science is the interdisciplinary, scientific study of the mind and its processes with input from linguistics, psychology, neuroscience, philosophy, computer science/artificial intelligence, and anthropology.
 * Read about Donald Hoffman's Case against reality
 * Read an article about [cognitive sciences and machine learning.](https://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/)
+
+## Day-72 [31/01/2022] Project 1 ==> Drug Prescription
+Problem Statement:
+* Provide a sophisticated and useful model using model using different NLP or ML techniques.
+* Find out the most useful drugs for each condition.
+* Find out some of the hidden trends or patterns that could help the company to make precise data driven decisions.
