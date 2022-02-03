@@ -479,3 +479,9 @@ Problem Statement:
 Problem Statement:
 * Stock market investments generate great profits and is a fundamental stimulus for most of the market researchers in this area.Technical analysis focuses on analyzing the direction of prices to predict future prices.
 * It's mostly based on analysing text and sentiments, where we have a bunch of numeric past information which has to be mapped to a number which we expect to be the future price which suits to be a perfect problem to be solved using Deep learning.
+
+## Day-75 [3/02/2022] Project 4 ==> Breast-Cancer-Prediction:
+* Technology: Python (along with pandas, matplotlib, sklearn libraries).
+* Applied SVM, K-Nearest Neighbors, Logistic Regression, Naïve Bayes and Random Forest algorithms to the Wisconsin Breast Cancer dataset from the UCI ML Repository (Kaggle)
+* To predict whether the breast cancer tumor is malignant or benign.
+* Compared the performance results of all the algorithms based on the accuracy and ROC values.
