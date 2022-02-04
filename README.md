@@ -485,3 +485,8 @@ Problem Statement:
 * Applied SVM, K-Nearest Neighbors, Logistic Regression, Naïve Bayes and Random Forest algorithms to the Wisconsin Breast Cancer dataset from the UCI ML Repository (Kaggle)
 * To predict whether the breast cancer tumor is malignant or benign.
 * Compared the performance results of all the algorithms based on the accuracy and ROC values.
+
+## Day-76 [4/02/2022] Project 5 ==> Pneumonia Detection:
+* Dealing with Image data sets.
+* Performing Data Processing and Augmentation as and when required.
+* Creating and training a Convolutional Neural Network using ResNet Architecture.
