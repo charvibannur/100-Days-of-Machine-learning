@@ -490,3 +490,7 @@ Problem Statement:
 * Dealing with Image data sets.
 * Performing Data Processing and Augmentation as and when required.
 * Creating and training a Convolutional Neural Network using ResNet Architecture.
+
+## Day-77 [5/02/2022] Project 6 ==> Number sequence prediction:
+* Predicting the missing number given the previous number sequence using LSTM on Keras.
+* ToyLSTM.py is a toy LSTM model to learn simple number sequences consisting of four consecutive numbers. The goal is to predict the last number given the first three consecutive numbers.
