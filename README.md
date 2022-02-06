@@ -494,3 +494,9 @@ Problem Statement:
 ## Day-77 [5/02/2022] Project 6 ==> Number sequence prediction:
 * Predicting the missing number given the previous number sequence using LSTM on Keras.
 * ToyLSTM.py is a toy LSTM model to learn simple number sequences consisting of four consecutive numbers. The goal is to predict the last number given the first three consecutive numbers.
+
+
+## Day-78 [06/02/2022] Project 7 ==> EDA on Zomato Bangalore Restaurants:
+* Data Visualization and Exploratory Data Analysis on Zomato dataset to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places in Bengaluru.
+* Use of Pandas ,Seaborn, Matplotlib ,Plotly ,Folium and Wordcloud.
+* Depth analyses with Bar graphs, Scatter Plots, Displots, Pie charts, Wordcloud.
