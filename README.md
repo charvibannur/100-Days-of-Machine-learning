@@ -500,3 +500,6 @@ Problem Statement:
 * Data Visualization and Exploratory Data Analysis on Zomato dataset to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places in Bengaluru.
 * Use of Pandas ,Seaborn, Matplotlib ,Plotly ,Folium and Wordcloud.
 * Depth analyses with Bar graphs, Scatter Plots, Displots, Pie charts, Wordcloud.
+
+## Day-79 [07/02/2022] Project 8 ==> Fake news Classifier:
+* You can learn how to distinguish fake news from a real one. You can use supervised learning to implement a model like this.
