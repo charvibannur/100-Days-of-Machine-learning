@@ -505,5 +505,5 @@ Problem Statement:
 * You can learn how to distinguish fake news from a real one. You can use supervised learning to implement a model like this.
 
 
-## Day-80 [08/02/2022] Project 9 ==> IPL Data Analysis and Visualiztion:
+## Day-80 [08/02/2022] Project 9 ==> IPL Data Analysis and Visualization:
 * Data Analysis and Visualiztion to draw inference on certain factors like Maximum Win by Runs, Highest Wins by Wickets, Maximum Toss Winners, Total Matches vs Wins for Teams, Runs Across the Seasons, Comparison between 2 Teams on the Basis of their Wins and many more.
