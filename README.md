@@ -507,3 +507,7 @@ Problem Statement:
 
 ## Day-80 [08/02/2022] Project 9 ==> IPL Data Analysis and Visualization:
 * Data Analysis and Visualiztion to draw inference on certain factors like Maximum Win by Runs, Highest Wins by Wickets, Maximum Toss Winners, Total Matches vs Wins for Teams, Runs Across the Seasons, Comparison between 2 Teams on the Basis of their Wins and many more.
+
+## Day-81 [09/02/2022] Project 10 ==> Dog and cat classification:
+* Implement Convolution Neural Network(CNN) Classifier for Classifying dog and cat images.
+* The Total number of images available for training is 25,000 and final testing is done on seperate 10,000 images.
