@@ -518,3 +518,9 @@ Problem Statement:
 * Code flow:
 
     Input article → split into sentences → remove stop words → build a similarity matrix → generate rank based on matrix → pick top N sentences for summary.
+
+
+## Day-83 [11/02/2022] Research Paper 1 ==> Large scale video classification using convolution networks:
+* Used to classify 1 million Youtube videos belonging to 487 classes.
+* Video is treated as a range of short fixed size clips and passed through a convolution.
+* [Paper link](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
