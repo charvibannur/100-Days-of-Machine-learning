@@ -524,3 +524,7 @@ Problem Statement:
 * Used to classify 1 million Youtube videos belonging to 487 classes.
 * Video is treated as a range of short fixed size clips and passed through a convolution.
 * [Paper link](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
+
+## Day-84 [12/02/2022] Research Paper 2 ==> Using Support Vector Machines to Classify Student Attentiveness for the Development of Personalized Learning Systems:
+* This article describes a system that uses a commercial RGB-D camera to monitor, count, and record student gestures, postures, facial expressions, and verbalizations in order to produce data for determining student attentiveness.
+* Machine learning algorithms are then used to cluster, label, and classify the data for the purpose of classifying subsequent students as attentive or inattentive.
