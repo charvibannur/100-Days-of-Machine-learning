@@ -528,3 +528,8 @@ Problem Statement:
 ## Day-84 [12/02/2022] Research Paper 2 ==> Using Support Vector Machines to Classify Student Attentiveness for the Development of Personalized Learning Systems:
 * This article describes a system that uses a commercial RGB-D camera to monitor, count, and record student gestures, postures, facial expressions, and verbalizations in order to produce data for determining student attentiveness.
 * Machine learning algorithms are then used to cluster, label, and classify the data for the purpose of classifying subsequent students as attentive or inattentive.
+
+
+## Day-85 [13/02/2022] Research Paper 3 ==> Age Suitability Rating: Predicting the MPAA Rating Based on Movie Dialogues:
+* Corpus for movie MPAA ratings is created and an RNN-based architecture is proposed with attention that jointly models the genre and the emotions in the script to predict the MPAA rating.
+* An 81% weighted F1-score was achieved for the classification model that outperforms the traditional machine learning method by 7%.
