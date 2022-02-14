@@ -531,6 +531,7 @@ Problem Statement:
 * Machine learning algorithms are then used to cluster, label, and classify the data for the purpose of classifying subsequent students as attentive or inattentive.
 
 
-## Day-85 [13/02/2022] Research Paper 3 ==> Age Suitability Rating: Predicting the MPAA Rating Based on Movie Dialogues:
-* Corpus for movie MPAA ratings is created and an RNN-based architecture is proposed with attention that jointly models the genre and the emotions in the script to predict the MPAA rating.
-* An 81% weighted F1-score was achieved for the classification model that outperforms the traditional machine learning method by 7%.
+## Day-85 [14/02/2022] Research Paper 3 ==> Classification Technique of Interviewer-Bot Result using Naïve Bayes and Phrase Reinforcement Algorithms:
+* The response indicating that the Naïve
+Bayes method and Reinforcement Phrase algorithm can be used to classify the inter-viewer-bot interview result. In addition, interviewer-bot system has the intelligent ability so it could contribute positively for students practicing interviews in English.
+* The accuracy level is about 86.93%.
