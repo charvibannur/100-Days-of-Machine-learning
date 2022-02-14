@@ -535,3 +535,4 @@ Problem Statement:
 * The response indicating that the Naïve
 Bayes method and Reinforcement Phrase algorithm can be used to classify the inter-viewer-bot interview result. In addition, interviewer-bot system has the intelligent ability so it could contribute positively for students practicing interviews in English.
 * The accuracy level is about 86.93%.
+* [Link](https://online-journals.org/index.php/i-jet/article/view/7173/4798)
