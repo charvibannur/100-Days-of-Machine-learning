@@ -536,3 +536,8 @@ Problem Statement:
 Bayes method and Reinforcement Phrase algorithm can be used to classify the inter-viewer-bot interview result. In addition, interviewer-bot system has the intelligent ability so it could contribute positively for students practicing interviews in English.
 * The accuracy level is about 86.93%.
 * [Link](https://online-journals.org/index.php/i-jet/article/view/7173/4798)
+
+## Day-86 [15/02/2022] Research Paper 4 ==> Horizon Detection Using Machine Learning Techniques:
+* The paper investigates how to detect the horizon line in a set of images using a machine learning approach. 
+* The performance of the SVM, J48, and Naïve Bayes classifiers, used for the problem, has been compared. 
+* Accuracy of 90-99% in identifying horizon was achieved on image data set of 20 images.
