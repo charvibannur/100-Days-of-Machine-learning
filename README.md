@@ -541,3 +541,8 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 * The paper investigates how to detect the horizon line in a set of images using a machine learning approach. 
 * The performance of the SVM, J48, and Naïve Bayes classifiers, used for the problem, has been compared. 
 * Accuracy of 90-99% in identifying horizon was achieved on image data set of 20 images.
+
+## Day-87 [16/02/2022] Reasearch Paper 5 ==> Predicting Frequently Asked Questions (FAQs) on the COVID-19 Chatbot using the DIET Classifier:
+* chatbot answers to questions about COVID-19 with the RASA framework and uses the DIET Classifier pipeline for 300 training data
+* DIET Classifier model can predict each word or sentence from the chatbot with different confidence values for all of the intents used.
+* [link](https://ieeexplore.ieee.org/document/9431913)
