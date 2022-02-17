@@ -545,3 +545,7 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 ## Day-87 [16/02/2022] Reasearch Paper 5 ==> Predicting Frequently Asked Questions (FAQs) on the COVID-19 Chatbot using the DIET Classifier:
 * chatbot answers to questions about COVID-19 with the RASA framework and uses the DIET Classifier pipeline for 300 training data
 * DIET Classifier model can predict each word or sentence from the chatbot with different confidence values for all of the intents used.
+
+## Day-88 [17/02/2022] Research Paper 6 ==> Deep Learning Based Vehicle Detection From Aerial Images:
+* The Paper discusses on a study aimed to develop an approach that is able to identify the vehicles through aerial images by using the YOLO (You Only Look Once) algorithm, feeding it with a trained convolutional neural network structure.
+* As a result of the study, an application that can detect vehicles was developed, increased the performance rate of the YOLO algorithm by 3.2%.
