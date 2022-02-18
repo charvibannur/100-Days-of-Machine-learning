@@ -549,3 +549,8 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 ## Day-88 [17/02/2022] Research Paper 6 ==> Deep Learning Based Vehicle Detection From Aerial Images:
 * The Paper discusses on a study aimed to develop an approach that is able to identify the vehicles through aerial images by using the YOLO (You Only Look Once) algorithm, feeding it with a trained convolutional neural network structure.
 * As a result of the study, an application that can detect vehicles was developed, increased the performance rate of the YOLO algorithm by 3.2%.
+
+## Day-89 [18/02/2022] Research Paper 7 ==> Chatbot for Medical Treatment using NLTK Lib:
+* The project involves creating a chatbot to be used in healthcare treatment. Helps in diagnosing various diseases and providing necessary details about the patient's disease or illness. It also enhances the user to chat and know about their medical status and issues.
+* Implements chatbot using NLTK, sentence tokenizing and stemming. Basically breaks sentences into words, and finds similar words in database using cosine similarity
+* [link](https://www.researchgate.net/publication/343452594_Chatbot_for_Medical_Treatment_using_NLTK_Lib)
