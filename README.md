@@ -559,6 +559,6 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 * The aim of this paper is to propose a traffic congestion pattern recognition system. It acquires real time road traffic information and categorizes the different road segments based on traffic density and average speed of vehicles.
 * The traffic parameters are captured by in-road stationary sensors deployed in road segments. The proposed system uses k means clustering algorithm to categorize the different road segments.
 
-## Day-90 [28/02/2022] Research Paper 9 ==> Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting:
+## Day-91 [28/02/2022] Research Paper 9 ==> Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting:
 * Traffic forecasting, Spatial-temporal, Graph convolution, LSTM, Recurrent neural network
 * [link](https://arxiv.org/ftp/arxiv/papers/1802/1802.07007.pdf)
