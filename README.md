@@ -568,3 +568,6 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 * This paper introduces six different types of Machine learning algorithms such as KNN and decision trees, Naïve Bayes, Linear Regression CART (Classification and Regression Tree) and SVM using similar characteristics on crime data. Those algorithms are tested for accuracy. 
 * The main objective of this research is to evaluate the efficacy and application of the machine learning algorithms in data analytics.
 
+## Day-93 [11/03/2022] Graph Theory:
+* Started watching stanford cs224w videos for graph theory.
+* Overview of graphs, why we need graphs and applications of graphs in ml.
