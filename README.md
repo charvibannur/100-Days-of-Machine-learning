@@ -571,3 +571,7 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 ## Day-93 [11/03/2022] Graph Theory:
 * Started watching stanford cs224w videos for graph theory.
 * Overview of graphs, why we need graphs and applications of graphs in ml.
+
+## Day-94 [12/03/2022] Nodes, Edges and Graph embedding and random walk:
+* Read about operations on graphs using Node, edges and graph centric operations
+* various methods and techniques related to random walk and its optimisation.
