@@ -575,3 +575,4 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 ## Day-94 [12/03/2022] Nodes, Edges and Graph embedding and random walk:
 * Read about operations on graphs using Node, edges and graph centric operations
 * various methods and techniques related to random walk and its optimisation.
+* Learnt about page rank and personalised page rank.
