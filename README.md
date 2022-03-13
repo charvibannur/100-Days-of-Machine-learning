@@ -576,3 +576,8 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 * Read about operations on graphs using Node, edges and graph centric operations
 * various methods and techniques related to random walk and its optimisation.
 * Learnt about page rank and personalised page rank.
+
+## Day-95 [13/03/2022] Semi-Supervised Learning, Correct & Smooth, Relational and Iterative Classification, Deep Graph Encoders:
+* Learnt about 2 approaches to collective classification i.e Relational and Iterative Classification.
+* Learnt how to leverage correlation in graphs to make prediction on nodes.
+* Started with Deep Graph Encoders.
