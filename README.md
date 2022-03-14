@@ -581,3 +581,11 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 * Learnt about 2 approaches to collective classification i.e Relational and Iterative Classification.
 * Learnt how to leverage correlation in graphs to make prediction on nodes.
 * Started with Deep Graph Encoders.
+
+
+## Day-96 [14/03/2022] Basics of neural networks, Idea for Deep Learning for Graphs, GNN vs CNN, GNN Augmentation and training
+Learnt:
+* Loss, Optimization, Gradient, SGD, non-linearity, MLP, Multiple layers of embedding transformation, At every layer use the embedding at previous layer as the input, Aggregation of neighbors and self-embeddings.
+* CNN and Transformer can be viewed as a special GNN.
+* Transformation + Aggregation, Classic GNN layers: GCN, GraphSAGE, GAT.
+* The over-smoothing problem, Feature augmentation, Structure augmentation etc.
