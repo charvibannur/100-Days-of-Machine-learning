@@ -589,3 +589,7 @@ Learnt:
 * CNN and Transformer can be viewed as a special GNN.
 * Transformation + Aggregation, Classic GNN layers: GCN, GraphSAGE, GAT.
 * The over-smoothing problem, Feature augmentation, Structure augmentation etc.
+
+## Day-97 [15/03/2022] Knowledge Graphs and Subgraphs:
+* Learnt about knowledge graphs and relations between them.
+* Learnt about Subgraphs, how to query subgraphs and frequency of subgraphs.
