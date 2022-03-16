@@ -593,3 +593,9 @@ Learnt:
 ## Day-97 [15/03/2022] Knowledge Graphs and Subgraphs:
 * Learnt about knowledge graphs and relations between them.
 * Learnt about Subgraphs, how to query subgraphs and frequency of subgraphs.
+
+## Day-98 [16/03/2022] Graph models:
+* Learnt different types of graph models.
+* Kronecker graph model
+* small world model
+* How to generate graph models.
