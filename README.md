@@ -599,3 +599,7 @@ Learnt:
 * Kronecker graph model
 * small world model
 * How to generate graph models.
+
+## Day-99 [17/03/2022] Adversarial robustness of GCN, Adversarial direct attack, Random attack, Indirect attack:
+* GCN is not robust to adversarial attacks but it is somewhat robust to indirect attacks and random noise.
+* Deep learning models are often not robust. 
